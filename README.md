@@ -1,5 +1,7 @@
 # How to add a YouTube video to Doks
 
+## Three steps
+
 1. Embed a YouTube video using the built-in [Hugo shortcode](https://gohugo.io/content-management/shortcodes/#youtube), for example:
 
 ```md
@@ -22,3 +24,7 @@
 ```
 
 3. That's it!
+
+## Example
+
+- [beautiful-basbousa-70a70e.netlify.app](https://beautiful-basbousa-70a70e.netlify.app/)
